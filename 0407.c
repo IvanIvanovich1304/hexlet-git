@@ -14,9 +14,7 @@ int main(){
 			res=res*a;
 			b=b-1;
 		}
-
 		printf("%d",res);
-
 	}
 
 
