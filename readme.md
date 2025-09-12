@@ -1,2 +1,1 @@
-Hello, Hexlet! How are you?
-include stdio.h
+return 0;
